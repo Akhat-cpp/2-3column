@@ -1,0 +1,34 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+.header
+{
+	background-color: #d57777;
+}
+.layout
+{
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+}
+.col1
+{
+	width: 33%;
+	left: 0;
+	background-color: #000000;
+	color: #ffffff;
+}
+.col2
+{
+	width: 34%;
+	left: 33%;
+	background-color: #ffffff;
+}
+.col3
+{
+	width: 33%;
+	right: 0;
+	background-color: #1c3554;
+}
